@@ -5,7 +5,7 @@ API-Based Integration: Used API keys to securely connect to a hosted LLM service
 
 Prompt Engineering: Designed and tested effective prompts to guide the model’s behavior based on specific use cases.
 
-Dynamic Input Handling: Built a user-friendly interface (CLI or web) to send real-time queries and receive responses.
+Dynamic Input Handling: Built a user-friendly interface to send real-time queries and receive responses.
 
 Use Cases: Content generation, chatbot simulation, educational Q&A, idea brainstorming, and more.
 
