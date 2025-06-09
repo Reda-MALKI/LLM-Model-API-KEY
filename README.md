@@ -7,7 +7,7 @@ Prompt Engineering: Designed and tested effective prompts to guide the model’s
 
 Dynamic Input Handling: Built a user-friendly interface to send real-time queries and receive responses.
 
-Use Cases: Content generation, chatbot simulation, educational Q&A, idea brainstorming, and more.
+Use Cases: Content generation, chatbot simulation, discussing everything related to moroccan culture.
 
 Technologies Used:
 Language Model: GEMINI 
